@@ -13,7 +13,7 @@ namespace UDP
     {
         // 10.1.10.255 // All
         // 127.0.0.1   // Self
-        public string ModelViewerIP = "10.1.10.25";
+        public string ModelViewerIP = "10.1.10.255";
         public int ModelViewerPort = 5000;
 
         private IPEndPoint ModelViewerRemoteEndPoint;
